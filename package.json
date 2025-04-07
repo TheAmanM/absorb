@@ -1,0 +1,21 @@
+{
+  "name": "absorb",
+  "displayName": "Absorb",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Absorb",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Absorb-color-theme.json"
+      }
+    ]
+  }
+}
