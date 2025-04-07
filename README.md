@@ -60,6 +60,8 @@ rm absorb.zip
 3. Select **Absorb** from the list.
 4. Boom. You're now officially coding in the dark side. 😎
 
+Note: If you have placed the folder in the correct locatio and still can not find the theme, delete `extensions.json` and relaunch VS Code.
+
 ---
 
 ## 🔄 Updating the Absorb Theme
