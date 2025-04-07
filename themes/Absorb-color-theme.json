@@ -10,6 +10,11 @@
     "foreground": "#FFF",
     // "disabledForeground": "#ff0000", // idk
     "widget.shadow": "#000",
+    "titleBar.activeBackground": "#000",
+    "titleBar.inactiveBackground": "#000",
+
+    "window.activeBorder": "#000",
+    "window.inactiveBorder": "#000",
 
     "menu.background": "#000",
     "badge.background": "#000",
